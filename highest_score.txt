@@ -1,3 +1,0 @@
-Easy=13
-Medium=10
-Hard=7
