@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local high score file
+highest_score.txt
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Virtual environments (if you ever use one)
+venv/
+.env/
